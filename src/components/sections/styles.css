@@ -1,0 +1,27 @@
+h1 {
+    color:white;
+    font-size: 70px;
+    margin: auto;
+    text-align: center;
+    padding-top: 50vh;
+}
+
+
+.section1 {
+	background-color: #ffd533;
+	height: 100vh;
+}
+
+.section2 {
+	background-color: #c3ff33;
+	height: 100vh;
+}
+.section3 {
+	background-color: #33ff6f;
+	height: 100vh;
+}
+.section4 {
+	background-color: #33c3ff;
+	height: 100vh;
+}
+

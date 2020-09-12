@@ -1,0 +1,29 @@
+.navBar {
+	display: flex;
+	justify-content: space-between;
+	background-color: black;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 100;
+}
+
+
+ul {
+	display: flex;
+	list-style: none;
+}
+
+li:hover {
+	color: orange;
+}
+h2{
+	color:white;
+}
+
+li {
+	padding-right: 30px;
+	cursor: pointer;
+	color:white;
+}
